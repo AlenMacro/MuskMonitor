@@ -1,0 +1,5 @@
+{
+  "name": "MuskMonitor AI",
+  "description": "An AI agent dashboard that tracks, summarizes, and translates the latest news about Elon Musk into German, ready for email dispatch.",
+  "requestFramePermissions": []
+}
